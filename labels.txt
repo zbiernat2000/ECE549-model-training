@@ -1,0 +1,5 @@
+two up-right
+peace - left
+like - forward
+dislake - backward
+stop - stop
