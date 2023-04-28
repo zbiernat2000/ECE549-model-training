@@ -1,3 +1,5 @@
 /data
-./.idea
+.idea
 __pycache__/
+gpu_test.py
+/checkpoints

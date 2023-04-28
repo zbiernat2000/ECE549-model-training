@@ -1,5 +1,7 @@
-two up-right
+fist -right
 peace - left
 like - forward
-dislake - backward
+dislike - backward
 stop - stop
+
+https://github.com/hukenovs/hagrid - dataset using subset
