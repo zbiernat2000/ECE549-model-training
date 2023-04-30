@@ -3,3 +3,7 @@
 __pycache__/
 gpu_test.py
 /checkpoints
+/onnx-tensorflow
+sanity_check.py
+/ann_subsample
+/cropped_data
